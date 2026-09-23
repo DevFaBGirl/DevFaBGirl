@@ -5,7 +5,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no Senac São Paulo 
 
 Tenho experiência prática em desenvolvimento Front-End e Back-End com HTML, CSS, JavaScript, React, TypeScript, Node.js e Python, utilizando Git/GitHub, API REST e boas práticas como Clean Code, POO, SOLID e Arquitetura Limpa.
 
-Atualmente sou estagiária de TI na Conectas Direitos Humanos, onde desenvolvo minhas habilidades em tech colaborando com uma causa próxima da minha trajetória e essencial para uma sociedade mais justa. Também atuei como freelancer com refatoração e deploy com Docker e como Code Review no programa Next Step (Google & PretaLab).
+Atualmente sou estagiária de TI na Conectas Direitos Humanos, onde desenvolvo minhas habilidades em tech colaborando com uma causa próxima da minha trajetória e essencial para uma sociedade mais justa. Também atuei como freelancer com refatoração e deploy com Docker na TKX-Conexões e Logística e como Code Review no programa Next Step (Google & PretaLab).
 
 Tenho forte background como educadora social, produtora e gestora em ONGs e projetos culturais, agregando planejamento estratégico, captação de recursos, comunicação adaptável e colaboração em times ágeis.
 
@@ -21,7 +21,7 @@ Tenho forte background como educadora social, produtora e gestora em ONGs e proj
 | Formação | Instituição | Período |
 |---|---|---|
 | Tecnologia em ADS | Senac São Paulo | 2024 – 2027 (início em 2024, conclusão prevista nov/2027) |
-| IA, Soberania Digital e Autonomia Tecnológica | Código Binário | jun – set/2026 |
+| IA, Soberania Digital e Autonomia Tecnológica | Código Não Binário | jun – set/2026 |
 | Do Zero ao Um: cibersegurança e inclusão digital | Mente Binária | ago – dez/2026 |
 
 
@@ -29,7 +29,7 @@ Tenho forte background como educadora social, produtora e gestora em ONGs e proj
 | Curso | Instituição | Período |
 |---|---|---|
 | Treinamento em Inteligência Artificial (Pré-MBA) | Saint Paul EXAME | 2026 |
-| Introdução ao Python (40h) | Missão 42 São Paulo | dez/2025 |
+| Introdução ao Python (40h) | Missão 42 São Paulo | 2025 |
 | Metodologias Ágeis e Business Agility | Alura | 2025 |
 | Engenharia de Prompt com LLMs | Rocketseat | 2025 |
 | Desenvolvimento Back-End com Node.js | PretaLab & Disney | 2024 |
@@ -80,8 +80,8 @@ Tenho forte background como educadora social, produtora e gestora em ONGs e proj
 | Code Review | Programa Next Step (Google & PretaLab) | atual |
 | Freelancer: refatoração de formulários e deploy com Docker Compose | TKX Conexão Logística | 2025 |
 | Fundadora e gestora de iniciativas culturais e sociais no DF | Projetos independentes | 2003 – atual |
-| Voluntariado como educadora social em ONGs | ONGs | 2001 – 2020 |
-| Gestão e produção de mais de 10 projetos culturais via editais e fundos sociais | Projetos culturais | 2003 – atual |
+| Voluntariado como educadora social em ONGs | ONGs | 2001 – atual |
+| Gestão e produção de mais de 15 projetos culturais via editais e fundos sociais | Projetos culturais | 2010 – atual |
 
 
 
@@ -90,13 +90,13 @@ Tenho forte background como educadora social, produtora e gestora em ONGs e proj
 | Destaque | Ano |
 |---|---|
 | **MEC**: consultora na construção da Escola Nacional de Hip Hop | 2026 |
-| **CNDD**: vice-presidente e Coordenadora Técnica do Departamento de Breaking | 2025 |
 | **Red Bull BC One, Nova York**: primeira jurada sul-americana na final mundial | 2022 |
 | **Instituto Drop Education**: presidente do Instituto de Formação, Estudo e Pesquisa em Dança Breaking e Culturas Afrodiaspóricas | 2020 — atual |
 | **Batom Battle**: evento que idealizou e produziu | 2011 |
-| **We-Bgirlz Brasil**: bicampeã nacional; uma das primeiras B-girls brasileiras a competir em mundiais | 2008 e 2010 |
+| **Pioneira nacional:** uma das primeiras B-girls brasileiras a competir em mundiais | 2001 — atual |
+| **We-Bgirlz Brasil**: única brasileira bicampeã nacional | 2008 e 2010 |
 | **Brasil Style Bgirls**: grupo que fundou | 2003 |
-| **B-girl**: trajetória que cruza Breaking, Capoeira Angola e tecnologia | 2001 — atual |
+
 
 ## GitHub Stats 📊 :
 
