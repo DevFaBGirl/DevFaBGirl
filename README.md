@@ -92,10 +92,10 @@ Tenho forte background como educadora social, produtora e gestora em ONGs e proj
 | **MEC**: consultora na construção da Escola Nacional de Hip Hop | 2026 |
 | **Red Bull BC One, Nova York**: primeira jurada sul-americana na final mundial | 2022 |
 | **Instituto Drop Education**: presidente do Instituto de Formação, Estudo e Pesquisa em Dança Breaking e Culturas Afrodiaspóricas | 2020 — atual |
-| **Batom Battle**: evento que idealizou e produziu | 2011 |
-| **Pioneira nacional:** uma das primeiras B-girls brasileiras a competir em mundiais | 2001 — atual |
-| **We-Bgirlz Brasil**: única brasileira bicampeã nacional | 2008 e 2010 |
-| **Brasil Style Bgirls**: grupo que fundou | 2003 |
+| **Batom Battle**: evento com foco em gênero que idealizou e produziu  | 2011 |
+| **Pioneira nacional:** uma das primeiras B-girls brasileiras a competir em mundiais de Breaking | 2001 — atual |
+| **We-Bgirlz Brasil**: única brasileira com o título de bicampeã nacional | 2008 e 2010 |
+| **Brasil Style Bgirls**: grupo formado exclusivamente por mulheres que fundou | 2003 |
 
 
 ## GitHub Stats 📊 :
